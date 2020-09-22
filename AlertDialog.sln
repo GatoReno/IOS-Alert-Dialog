@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertDialog", "AlertDialog\AlertDialog.csproj", "{FF76ADE9-8027-427A-8B6C-B1BAEFE3EAA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF76ADE9-8027-427A-8B6C-B1BAEFE3EAA2}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{FF76ADE9-8027-427A-8B6C-B1BAEFE3EAA2}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{FF76ADE9-8027-427A-8B6C-B1BAEFE3EAA2}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{FF76ADE9-8027-427A-8B6C-B1BAEFE3EAA2}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{FF76ADE9-8027-427A-8B6C-B1BAEFE3EAA2}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{FF76ADE9-8027-427A-8B6C-B1BAEFE3EAA2}.Debug|iPhone.Build.0 = Debug|iPhone
+		{FF76ADE9-8027-427A-8B6C-B1BAEFE3EAA2}.Release|iPhone.ActiveCfg = Release|iPhone
+		{FF76ADE9-8027-427A-8B6C-B1BAEFE3EAA2}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal

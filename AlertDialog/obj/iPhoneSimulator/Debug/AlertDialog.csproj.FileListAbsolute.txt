@@ -1,0 +1,15 @@
+/Users/dmn/Projects/AlertDialog/AlertDialog/bin/iPhoneSimulator/Debug/AlertDialog.exe
+/Users/dmn/Projects/AlertDialog/AlertDialog/bin/iPhoneSimulator/Debug/AlertDialog.pdb
+/Users/dmn/Projects/AlertDialog/AlertDialog/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/dmn/Projects/AlertDialog/AlertDialog/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/dmn/Projects/AlertDialog/AlertDialog/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/ibtool/_BundleResourceWithLogicalName.items
+/Users/dmn/Projects/AlertDialog/AlertDialog/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_PartialAppManifest.items
+/Users/dmn/Projects/AlertDialog/AlertDialog/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_BundleResourceWithLogicalName.items
+/Users/dmn/Projects/AlertDialog/AlertDialog/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_PartialAppManifest.items
+/Users/dmn/Projects/AlertDialog/AlertDialog/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_BundleResourceWithLogicalName.items
+/Users/dmn/Projects/AlertDialog/AlertDialog/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/
+/Users/dmn/Projects/AlertDialog/AlertDialog/obj/iPhoneSimulator/Debug/AlertDialog.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/AlertDialog/AlertDialog/obj/iPhoneSimulator/Debug/AlertDialog.csproj.CopyComplete
+/Users/dmn/Projects/AlertDialog/AlertDialog/obj/iPhoneSimulator/Debug/AlertDialog.exe
+/Users/dmn/Projects/AlertDialog/AlertDialog/obj/iPhoneSimulator/Debug/AlertDialog.pdb
+/Users/dmn/Projects/AlertDialog/AlertDialog/obj/iPhoneSimulator/Debug/AlertDialog.csprojAssemblyReference.cache
